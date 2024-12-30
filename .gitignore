@@ -1,0 +1,14 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración de IDE/Editor
+.vscode/
+*.swp
+
+# Otros archivos a ignorar
+node_modules/
+dist/
